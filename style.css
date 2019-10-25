@@ -1,0 +1,83 @@
+.he-header{
+    height: 90px;
+    background-color: #ffffff;
+}
+
+.he-header p{
+    padding-top: 22px;
+    font-family: font92806;
+    letter-spacing: 8px;
+    font-size: 25px;
+}
+
+.he-slide{
+    height: 500px;
+    background-color: #79d8da;
+}
+
+.he-slide img{
+    height: 500px;
+}
+
+.he-logo{
+    font-family: font92806;
+    font-size: 100px;
+}
+.he-title{
+    font-family: font92806;
+    font-size: 50px;
+}
+.he-subtitle{
+    font-family: font92806;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+.he-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.he-margin{
+    padding-top: 60px;
+}
+hr { 
+    border-width: 3px;
+    background-color: black;
+  }
+
+.he-hr { 
+    border-width: 3px;
+    background-color: grey;
+}
+
+.he-portfolio{
+    height: 450px;
+    background-color: #f8c6cf;
+}
+
+.he-portfolio-img{
+    height: 300px;
+    background-color: hotpink;
+}
+
+.he-contact{
+    height: 550px;
+    margin-top: 50px;
+    background-color: #ffe6e2;
+}
+.he-contact-title{
+    font-size: 25px;
+    font-family: font92806;
+}
+.he-contact-text{
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+}
+.he-footer{
+    height: 100px;
+    background-color: #000000;
+}
+.he-footer-text{
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-family: font92806;
+}
